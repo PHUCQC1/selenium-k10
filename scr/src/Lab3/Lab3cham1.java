@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Lab3cham1 {
     public static void main(String[] args) {
-        int[] intArr = new int[]{0, 1, 2, 3, 4, 5, 7, 8, 9};
+        int[] intArr = {0, 1, 2, 3, 4, 5, 7, 8, 9};
         int i = 0;
         int o =0;
         int CHAN = intArr[0];
